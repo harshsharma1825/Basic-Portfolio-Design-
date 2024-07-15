@@ -9,7 +9,7 @@ CSS :Styling and layout design: Used flexbox,animations ,hover buttons.<br>
 
 Preview:<br>
 <p align="center">
-  <img width="460" height="300" src="![Portfolio](https://github.com/user-attachments/assets/f82317b0-a6d5-4dfb-ad38-21d92639ca83)
+  <img  src="![Portfolio](https://github.com/user-attachments/assets/f82317b0-a6d5-4dfb-ad38-21d92639ca83)
 ">
 </p>
 
