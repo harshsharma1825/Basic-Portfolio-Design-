@@ -1,1 +1,15 @@
 # Basic-Portfolio-Design-
+
+HTML and CSS Portfolio<br>
+Welcome to my HTML and CSS portfolio basic design .
+
+Skills Demonstrated <br>
+HTML : Structure and Content markup : Used different attributes ,icons from fontawesome .<br>
+CSS :Styling and layout design: Used flexbox,animations ,hover buttons.<br>
+
+Preview:<br>
+<p align="center">
+  <img width="460" height="300" src="![Portfolio](https://github.com/user-attachments/assets/c2993382-91d5-4ad6-945b-cc94a04c39f8)">
+</p>
+
+
